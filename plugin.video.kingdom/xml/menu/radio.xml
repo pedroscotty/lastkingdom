@@ -1,0 +1,39 @@
+ <dir>
+    <title> UK Radio 1</title>
+    <otb_radio>genre/UK1</otb_radio>
+    </dir>
+
+    <dir>
+    <title> UK Radio 2</title>
+    <otb_radio>genre/UK2</otb_radio>
+    </dir>
+
+    <dir>
+    <title> USA Radio 1</title>
+    <otb_radio>genre/USA1</otb_radio>
+    </dir>
+
+    <dir>
+    <title> USA Radio 2</title>
+    <otb_radio>genre/USA2</otb_radio>
+    </dir>
+
+    <dir>
+    <title> USA Radio 3</title>
+    <otb_radio>genre/USA3</otb_radio>
+    </dir>
+    
+    <dir>
+    <title> USA Radio 4</title>
+    <otb_radio>genre/USA4</otb_radio>
+    </dir>
+
+    <dir>
+    <title> USA Radio 5</title>
+    <otb_radio>genre/USA5</otb_radio>
+    </dir>    
+    
+    <dir>
+    <title> Radio Search</title>
+    <otb_radio>search</otb_radio>>
+    </dir>

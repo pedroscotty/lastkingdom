@@ -1,0 +1,177 @@
+<xml>
+
+ <dir>
+    <title>The VAULT  News</title>
+    <link>file://menu/message.xml</link>
+    <thumbnail>https://i.imgur.com/L15SJ69.jpg</thumbnail>
+	<summary>Movies</summary>
+  </dir>
+
+ 
+
+<item>
+    <title>[COLOR magenta][B]+-=+-=++-=+-=+[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+ 
+<dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORcrimson][B]NOW THATS WHAT I CALL MUSIC [/B][/COLOR]</title>
+    <link>file://menu/nowmusicall.xml</link>
+	<thumbnail>https://i.imgur.com/sTxpLUS.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+	<summary></summary>
+  </dir>
+  
+  <item>
+    <title>[COLOR magenta][B]+-=+-=++-=+-=+[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+
+
+  <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORorange][B]GREAT BRITISH MUSIC[/B][/COLOR]</title>
+    <link>file://menu/gball.xml</link>
+	<thumbnail>https://i.imgur.com/foxCmIC.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+	<summary>ALL GB MUSIC</summary>
+  </dir>
+  
+<item>
+    <title>[COLOR magenta][B]+-=+-=++-=+-=+[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+ <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORred][B]THE [/B] [/COLOR][COLORlimegreen][B]ULTIMATE [COLORwhite][B] MUSIC [/B][/COLOR] [COLORyellow][B]COMPILATION [/B] [/COLOR]</title>
+    <link>file://menu/ultimmusic.xml</link>
+    <thumbnail>https://i.imgur.com/em1pHeg.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>
+  
+  <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORblue][B]MUSIC[/B][/COLOR]  [COLORdeeppink][B]VIDEO [/B][/COLOR] [COLORorange][B]HEAVEN[/B][/COLOR] By Decade and lots More</title>
+    <link>file://menu/music vids.xml</link>
+    <thumbnail>https://i.imgur.com/rTDoMhP.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>
+  
+  
+   <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORindigo][B] THE VAULTS PICKS  [/B][/COLOR]  [COLORwhite][B]OF 2019[/B][/COLOR] [COLORgoldenrod][B] ARTISTS AND BANDS[/B][/COLOR]</title>
+    <link>file://menu/toplist.xml</link>
+	<thumbnail>https://i.imgur.com/em1pHeg.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+	<summary></summary>
+  </dir>
+
+  
+  
+  <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORred][B]THE [/B] [/COLOR][COLORlimegreen][B]BEST OF  [COLORwhite][B] MUSIC [/B][/COLOR] [COLORyellow][B]MASHUPS/Remix [/B] [/COLOR]</title>
+    <link>file://menu/mashup.xml</link>
+    <thumbnail>https://i.imgur.com/k4GsSjx.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>
+  
+  <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORlime][B]ALL THE  NO  1s[/B][/COLOR]  [COLORwhite][B]FROM 1960 - 2018[/B][/COLOR] </title>
+    <link>file://menu/all  the no1s.xml</link>
+    <thumbnail>https://i.imgur.com/93EbQJF.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>
+  
+   <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORmagenta][B]THE MINISTRY[/B][/COLOR]  [COLORyellow][B]OF SOUND[/B][/COLOR] </title>
+    <link>file://menu/mosall.xml</link>
+    <thumbnail>https://i.imgur.com/w5T6s4k.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>
+  
+    <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORspringgreen][B]NORTHERN[/B][/COLOR]  [COLORwhite][B]SOUL[/B][/COLOR] </title>
+    <link>file://menu/northernsoul.xml</link>
+    <thumbnail>https://i.imgur.com/kERnGAK.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>
+     
+     
+     
+ <item>
+    <title>[COLOR magenta][B]--------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+ <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORred][B]CHRISTMAS  [/B] [/COLOR] [COLORwhite][B] MUSIC [/B][/COLOR] </title>
+    <link>file://menu/xmas music.xml</link>
+    <thumbnail>https://i.imgur.com/jEw8aLf.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>
+  
+
+  
+   <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORblue][B]KARAOKE[/B][/COLOR]  [COLORyellow][B]LOUNGE [/B][/COLOR] </title>
+    <link>file://menu/karaoke.xml</link>
+    <thumbnail>https://i.imgur.com/rwL7bfW.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>
+  
+<dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORblue][B]YOUTUBE[/B][/COLOR]  [COLORyellow][B]MUSIC CHANNELS [/B][/COLOR] </title>
+    <link>file://menu/musicchannels.xml</link>
+    <thumbnail>https://i.imgur.com/SJO0ezW.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>
+  
+  <plugin>
+	<title>[B][COLOR ffc51162]• [/COLOR][/B][COLORorange][B] CARPOOL KARAOKE[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0Lma7npYi0J2omYt1KnmuMbQ/</link>
+	<thumbnail>https://i.imgur.com/Bmj9qKE.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+</plugin>
+
+ 
+  <plugin>
+	<title>[B][COLOR ffc51162]• [/COLOR][/B] [COLORred][B]DANCE [/B] [/COLOR][COLORlimegreen][B]TO [COLORwhite][B] MUSIC [/B][/COLOR] [COLORyellow][B]FITNESS [/B] [/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0LmDb9eFoBWAHKwaMCgIHtT4/</link>
+	<thumbnail>https://i.imgur.com/HXptiF6.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+</plugin>
+
+
+
+<item>
+    <title>[COLOR magenta][B]--------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>	 
+   		
+ 
+
+ <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORlime][B]LAST FM  (Genres artists and more) [/B][/COLOR]</title>
+    <link>file://menu/lastfm.xml</link>
+	<thumbnail>https://i.imgur.com/cFFNBCJ.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+	<summary></summary>
+  </dir>
+  
+<item>
+    <title>[COLOR magenta][B]--------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+<dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLOR red][B]TOOLS[/COLOR][/B]</title>
+    <summary>add-On Tools.</summary>
+    <link>file://menu/mytools.xml</link>
+	<thumbnail>special://home/addons/plugin.video.gbmusic/resources/images/icons/mytools.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+	<summary>Tool  authorise RD . Authorise . Trakt . Clear cache . Pair Up</summary>
+</dir>
+  
+  
+  
+ 

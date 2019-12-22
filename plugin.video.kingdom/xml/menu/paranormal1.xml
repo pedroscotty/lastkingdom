@@ -1,0 +1,78 @@
+<item>
+    <title>[COLORlime][B]*** Your In Kingdoms Paranormal Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+
+<dir>
+<title>[COLORwhite][B]Paranormal TV Shows[/B][/COLOR]</title>
+<trakt>https://api.trakt.tv/users/mona-lott/lists/paranormal-tv-shows/items</trakt>
+<thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+<summary>Paranormal TV Shows</summary>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Ghosts and Paranormal TV[/B][/COLOR]</title>
+  <trakt>https://api.trakt.tv/users/coldkeys/lists/ghosts-and-paranormal-tv/items</trakt>
+  <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+  <summary>ghosts and paranormal TV</summary>
+</dir>
+
+
+<dir>
+    <title>[COLORwhite][B]PARANORMAL REALITY TV SHOWS[/B][/COLOR]</title>
+    <imdburl>/list/ls068169677/</imdburl>
+    <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+	<summary>PARANORMAL REALITY TV SHOWS</summary>
+  </dir> 
+  
+  <dir>
+    <title>[COLORwhite][B]Insanely Creepy Documentaries[/B][/COLOR]</title>
+    <imdburl>/list/ls022634822/</imdburl>
+    <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+	<summary>Scarey Stuff</summary>
+  </dir> 
+  
+  
+   <dir>
+    <title>[COLORwhite][B]Scary Documentaries[/B][/COLOR]</title>
+    <imdburl>/list/ls036344749/</imdburl>
+    <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+	<summary>Scarey Stuff</summary>
+  </dir> 
+  
+   <dir>
+    <title>[COLORwhite][B]Paranormal Documentaries[/B][/COLOR]</title>
+    <imdburl>/list/ls023254347/</imdburl>
+    <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+	<summary>Scarey Stuff</summary>
+  </dir> 
+  
+    <dir>
+    <title>[COLORwhite][B]Paranormal Documentaries that Really Scared Us[/B][/COLOR]</title>
+    <imdburl>/list/ls024446208/</imdburl>
+    <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+	<summary>Scarey Stuff</summary>
+  </dir> 
+  
+    <dir>
+    <title>[COLORwhite][B]PARANORMAL TV SHOWS & DOCUMENTARIES[/B][/COLOR]</title>
+    <imdburl>/list/ls070251548/</imdburl>
+    <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+	<summary>Scarey Stuff</summary>
+  </dir> 
+  
+  <dir>
+    <title>[COLORwhite][B]A Mini Collection of Scary Stuff[/B][/COLOR]</title>
+    <imdburl>/list/ls097885799/</imdburl>
+    <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+	<summary>Scarey Stuff</summary>
+  </dir> 
+  
+  <dir>
+    <title>[COLORwhite][B][/B][/COLOR]</title>
+    <imdburl>/list//</imdburl>
+    <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+	<summary>Scarey Stuff</summary>
+  </dir> 

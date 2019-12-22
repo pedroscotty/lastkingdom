@@ -1,0 +1,11 @@
+<dir>
+<title>Kids TV Shows</title>
+<trakt>https://api.trakt.tv/users/drinfernoo/lists/kids-shows/items</trakt>
+<summary>Kids TV Shows</summary>
+</dir>
+
+<dir>
+<title>Kids Cartoons</title>
+<trakt>https://api.trakt.tv/users/kylesheila/lists/kids-cartoons/items</trakt>
+<summary>Kids Cartoons</summary>
+</dir>

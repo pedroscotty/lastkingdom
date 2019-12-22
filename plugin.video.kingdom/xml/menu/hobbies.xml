@@ -1,0 +1,85 @@
+<item>
+    <title>[COLORlime][B]*** Your In Kingdoms Hobbies and More Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+
+ <plugin>
+	<title>[COLORgoldenrod][B]Spark Channel[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/channel/UCMV3aTOwUtG5vwfH9_rzb2w/</link>
+	<thumbnail>https://i.imgur.com/Wvzm9qe.png</thumbnail>
+</plugin>
+
+<plugin>
+	<title>[COLORgoldenrod][B]How To Channel[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/user/HowToBasic/</link>
+	<thumbnail>https://i.imgur.com/07Dv47M.jpg</thumbnail>
+</plugin>
+
+<dir>
+     <title> [COLORgoldenrod][B]Learn A Language[/B][/COLOR] </title>
+  <link>file://menu/youtubelang.xml</link>
+  <thumbnail>https://i.imgur.com/fa3ad7w.png</thumbnail>
+  <summary>Learn A Language[</summary>
+  </dir>
+  
+  <dir>
+     <title> [COLORgoldenrod][B]Learn To Dance[/B][/COLOR] </title>
+  <link>file://content/learndance.xml</link>
+  <thumbnail>https://i.imgur.com/FXswD3j.png</thumbnail>
+  <summary>Learn A Language[</summary>
+  </dir>
+  
+<plugin>
+	<title>[COLORgoldenrod][B]Slimming World Recipes[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0Lm4mSrLgveV9JPdzMwSwZkz/</link>
+	<thumbnail>https://i.imgur.com/MhUXS3F.jpg</thumbnail>
+</plugin>
+
+<plugin>
+	<title>[COLORgoldenrod][B]Vegetarian Recipes[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0LmP8g5JXLFUIxgh6e63RHPY/</link>
+	<thumbnail>https://i.imgur.com/OHwhMCe.jpg</thumbnail>
+</plugin>
+
+<plugin>
+	<title>[COLORgoldenrod][B]Learn To read Tarot Cards[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0LkOIIagPeIm4Dk9L29iYx_h/</link>
+	<thumbnail>https://i.imgur.com/iI1bqnl.png</thumbnail>
+</plugin>
+
+<plugin>
+	<title>[COLORgoldenrod][B]Paul Mckenna  Hypnosis.. Sleep...Loose Weight...Smoking...relaxation and More[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0LlqKVlm1wQoe3GglKYtfUlJ/</link>
+	<thumbnail>https://i.imgur.com/A0elV3n.jpg</thumbnail>
+</plugin>
+
+<dir>
+     <title> [COLORgoldenrod][B]Special forces & Survival[/B][/COLOR] </title>
+  <link>file://menu/survival stuff.xml</link>
+  <thumbnail>https://i.imgur.com/6hKM5dE.png</thumbnail>
+  <summary>Survival and More[</summary>
+  </dir>
+
+
+<plugin>
+	<title>[COLORgoldenrod][B]Survival Stuff[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0LknT5gLyBm0xiWEPIJ4INZq/</link>
+	<thumbnail>https://i.imgur.com/6hKM5dE.png</thumbnail>
+</plugin>
+
+<plugin>
+	<title>[COLORgoldenrod][B]Fab Make Your Own Craft stuff[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0LmSmluFOpTwQiw0kpvowJyl/</link>
+	<thumbnail>https://i.imgur.com/zbBYmc4.png</thumbnail>
+</plugin>
+
+<plugin>
+	<title>[COLORgoldenrod][B]Flash Mobs[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0LnarcgCbaNbZbczyQZSI3o1/</link>
+	<thumbnail>https://i.imgur.com/ZRfc8kZ.png</thumbnail>
+</plugin>
+ 
+  
+  

@@ -1,0 +1,103 @@
+<xml>
+
+<item>
+    <title>[COLORlime][B]*** Your In Kingdoms Comedy Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+<item>
+    <title>[COLOR skyblue][B]😀---Laugh --Chuckle--Hehaw---😀[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+<plugin>
+	<title>Latest Stand Up- Just For laughs</title>
+	<link>plugin://plugin.video.youtube/playlist/PLoXkGkpREHNBY9KtkdqhBIfx-waIGSKet/</link>
+	<thumbnail>https://i.imgur.com/b60AaEl.jpg</thumbnail>
+</plugin>
+
+<plugin>
+	<title>The Women of Comedy </title>
+	<link>plugin://plugin.video.youtube/playlist/PLoXkGkpREHNCiZXQOfUQyiCQhldmFUiY5/</link>
+	<thumbnail>https://i.imgur.com/y9XfqfS.png</thumbnail>
+</plugin>
+
+<plugin>
+	<title>Comedy  Laugh Factory </title>
+	<link>plugin://plugin.video.youtube/playlist/PL86jPosyTZH9ji_GarwnhmLgHLko6SCPd/</link>
+	<thumbnail>https://i.imgur.com/y9XfqfS.png</thumbnail>
+</plugin>
+  
+
+<plugin>
+	<title>Comedy Central Stand Up-Featuring</title>
+	<link>plugin://plugin.video.youtube/playlist/PLZAW5O34QidalMik9wPnDfkCuQBwhvbEC/</link>
+	<thumbnail>https://i.imgur.com/z47oaaz.png</thumbnail>
+</plugin>
+
+
+ 
+ <plugin>
+	<title>Stand Up Comedy 2000-Just For laughs</title>
+	<link>plugin://plugin.video.youtube/playlist/PLoXkGkpREHNBerh-2Ql6R5GqRk-Hz20O_/</link>
+	<thumbnail>https://i.imgur.com/b60AaEl.jpg</thumbnail>
+</plugin>
+
+
+
+<plugin>
+	<title>Popular Videos - Stand-up comedy</title>
+	<link>plugin://plugin.video.youtube/playlist/PLnyQlAp8jK6CNJFLQMY8OHdIQkyQExXA3/</link>
+	<thumbnail>https://i.imgur.com/y9XfqfS.png</thumbnail>
+</plugin>
+
+
+
+<plugin>
+	<title>Lates Stand Up- Just For laughs</title>
+	<link>plugin://plugin.video.youtube/playlist/PLoXkGkpREHNBY9KtkdqhBIfx-waIGSKet/</link>
+	<thumbnail>https://i.imgur.com/y9XfqfS.png</thumbnail>
+</plugin>
+
+
+
+<plugin>
+	<title>Megathon Stand Up</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0LnWhcJvRt9Z4zgCDekDJzlC/</link>
+	<thumbnail>https://i.imgur.com/y9XfqfS.png</thumbnail>
+</plugin>
+
+
+
+<plugin>
+	<title>This Is Not Happening-on Comedy Central Stand-Up!</title>
+	<link>plugin://plugin.video.youtube/playlist/PLZAW5O34QidZo6TcyosmmefHm_KatZ8Qy/</link>
+	<thumbnail>https://i.imgur.com/z47oaaz.png</thumbnail>
+</plugin>
+
+
+
+ <dir>
+    <title>Kevin Hart</title>
+    <link>file://content/kevinhart.xml</link>
+    <thumbnail>https://i.imgur.com/HPRPVUp.jpg</thumbnail>
+  </dir>
+
+
+
+<dir>
+    <title>Kevin Bridges</title>
+    <link>file://content/kevinbridges.xml</link>
+    <thumbnail>https://i.imgur.com/R76gQNc.jpg</thumbnail>
+  </dir>
+  
+  <item>
+    <title>[COLOR lightslategrey][B]😀------------------------------------------------------😀[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+
+
+
+</xml>

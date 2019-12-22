@@ -1,0 +1,86 @@
+<xml>
+
+<dir>
+	<title>PBS Kids</title>
+	<tvmaze>network/540/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Fox Kids</title>
+	<tvmaze>network/1457/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Nickelodeon</title>
+	<tvmaze>network/27/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Nicktoons</title>
+	<tvmaze>network/73/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Nick Jr.</title>
+	<tvmaze>network/206/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>TeenNick</title>
+	<tvmaze>network/101/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+	</dir>
+<dir>
+	<title>Disney Channel</title>
+	<tvmaze>network/78/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Disney XD</title>
+	<tvmaze>network/25/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Disney Junior</title>
+	<tvmaze>network/1039/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Toon Disney</title>
+	<tvmaze>network/223/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Adult Swim</title>
+	<tvmaze>network/10/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Cartoon Network</title>
+	<tvmaze>network/11/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Boomerang</title>
+	<tvmaze>network/456/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+<dir>
+	<title>Universal Kids</title>
+	<tvmaze>network/342/1</tvmaze>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+</dir>
+
+</xml>

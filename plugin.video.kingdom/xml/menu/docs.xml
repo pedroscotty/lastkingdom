@@ -1,0 +1,577 @@
+<item>
+    <title>[COLORlime][B]*** Your In Kingdoms Documentaries Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+
+
+<dir>
+<title>Alien Documentaries</title>
+  <tmdb>list/38399</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+<summary>Alien Documentaries</summary>
+</dir>
+
+
+
+<plugin>
+<title>Al Jazeera Documentaries</title>
+ <link>
+    <sublink>plugin://plugin.video.youtube/playlist/PLzGHKb8i9vTz-80p9J9gs-iIlM8dg8kGo/</sublink>  
+  </link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+<summary>Al Jazeera Documentaries</summary>
+</plugin>
+
+<plugin>
+<title>Al Jazeera Featured Documentaries</title>
+ <link>
+    <sublink>plugin://plugin.video.youtube/playlist/PLzGHKb8i9vTxldCgnpeGHd9gBLl5vK0lW/</sublink>  
+  </link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</plugin>
+
+<dir>
+<title>BBC Documentaries (UK Only)</title>
+<link>http://norestrictions.club/griff/Docs/BBCiplayer/BBCDocsiplayer.xml</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>BBC Documentaries</title>
+<link>http://norestrictions.club/griff/Docs/BBC/BBCDocsMenu.xml</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Biography Documentaries</title>
+  <tmdb>list/38402</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+<title>Best Documentary HD</title>
+<meta>
+<summary>Best Documentary HD</summary>
+</meta>
+<link>plugin://plugin.video.youtube/channel/UC7BmSs6TWeizQypr1WPh61w/</link>
+</plugin>
+
+
+
+<dir>
+<title>Biography Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-biography/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>British History Documentaries</title>
+  <tmdb>list/38403</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>British History Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-history-uk/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Catalyst Documentaries</title>
+<link>http://norestrictions.club/griff/Docs/Catalyst/Catalyst.xml</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+ <plugin>
+<title>CIA Documentary 2017</title>
+<meta>
+<summary>CIA Documentary 2017</summary>
+</meta>
+<link>plugin://plugin.video.youtube/channel/UCAL_bvQR8RtINTdhrp7j2Kw/playlists/</link>
+</plugin>
+
+
+<dir>
+<title>Cold War Documentaries</title>
+  <tmdb>list/38405</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Cold War Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-cold-war/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Computer Documentaries</title>
+  <tmdb>list/38406</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Computer Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-computers/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+
+
+<dir>
+<title>Conspiracy Documentaries</title>
+  <tmdb>list/38397</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Conspiracy Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-conspiracy/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Crime Documentaries</title>
+  <tmdb>list/38577</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Crime Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/crime-tv/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+
+
+< dir>
+<title>Dispatches Documentaries</title>
+<link>http://norestrictions.club/griff/Docs/Dispatches/Dispatches.xml</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Donald Trump Documentaries</title>
+  <tmdb>list/38407</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Donald Trump Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-trump/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+
+<dir>
+<title>Drug Documentaries</title>
+  <tmdb>list/38408</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Drug Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-drugs/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Epix Documentaries</title>
+<link>http://norestrictions.club/griff/Docs/Epix/Epix_Menu.xml</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Espionage Documentaries</title>
+  <tmdb>list/38409</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Espionage Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-espionage/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+<title>Fifth Estate Documentaries</title>
+ <link>
+    <sublink>plugin://plugin.video.youtube/playlist/PLdAfVqbTVW9BRC6r6rRKchiGmtCbei8Td/</sublink>  
+  </link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</plugin>
+
+
+<dir>
+<title>Ghost Myths and Legends Documentaries</title>
+  <tmdb>list/38412</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Ghost Myths and Legends Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-ghosts-myths-legends/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+ <plugin>
+ <title>History Channel Documentary Collection</title>
+ <meta>
+ <summary>History was launched on January 1, 1995 as The History Channel, its original format focused entirely on historical series and specials.</summary>
+ </meta>
+ <link>plugin://plugin.video.youtube/playlist/PLlHanBMNk-DIARcehW2vDIuPXOQ8v6xG1/</link>
+ </plugin>
+
+<dir>
+<title>HBO Documentaries</title>
+  <tmdb>list/38414</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>HBO Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-hbo/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Latest Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-latest/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+<title>Military Documentary channel</title>
+<meta>
+<summary>Go behind the lines with Military Documentary Channel for an up-close look at all things military. Learn about the latest Military Technology, Military History, Military War and other related Military Documentary Films.</summary>
+</meta>
+<link>plugin://plugin.video.youtube/channel/UCfK19qFTOKudHXWc3TP8VKA/playlists/</link>
+</plugin>
+ 
+<dir>
+  <title>The Making Of Documentaries</title>
+  <tmdb>list/38753</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+  <title>The Making Of Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-making-of/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+  <title>Medical Documentaries</title>
+  <tmdb>list/38755</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+  <title>Medical Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-medical-docs/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Michael Moore Documentaries</title>
+  <tmdb>list/38415</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Misc Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-misc-docs/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Netflix Documentaries</title>
+  <tmdb>list/38416</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Netflix Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-netflix/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Organised Crime Documentaries</title>
+  <tmdb>list/38417</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Organised Crime Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-organised-crime/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Panorama Documentaries</title>
+<link>http://norestrictions.club/griff/Docs/Panorama/Panorama_Menu.xml</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>PBS Frontline Documentaries</title>
+<link>http://norestrictions.club/griff/Docs/PBS_Frontline/Frontline.xml</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>PBS Nova Documentaries</title>
+<link>http://norestrictions.club/griff/Docs/NOVA/NOVA.xml</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Photography Documentaries</title>
+  <tmdb>list/38419</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Photography Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-photography/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Political Documentaries</title>
+  <tmdb>list/38420</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Political Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-politics/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+	<title>Reddit Documentaries</title>
+	<link>plugin://plugin.video.reddit_viewer/?mode=listSubReddit&amp;type=documentaries&amp;url=https%3a%2f%2fwww.reddit.com%2fr%2fdocumentaries%2f.json%3f%26limit%3d50</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+	<fanart></fanart>
+	<content></content>
+</plugin>
+
+
+<dir>
+<title>Religion Documentaries</title>
+  <tmdb>list/38757</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Religion Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-religion/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Requested Documentaries</title>
+<link>http://norestrictions.club/griff/Docs/LHLY3CHK</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Simon Reeve Documentaries</title>
+  <tmdb>list/38466</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Simon Reeve Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-simon-reeve/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+ <title>Sniper Documentary Channel</title>
+ <meta>
+ <summary>Sniper Documentary Channel</summary>
+ </meta>
+ <link>plugin://plugin.video.youtube/channel/UCzQpZ6niKlyM4tol66vXe6A/</link>
+ </plugin>
+
+<dir>
+<title>Space Documentaries</title>
+  <tmdb>list/38576</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+  <title>Space Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-space/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Sports Documentaries</title>
+  <tmdb>list/38469</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Sports Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-sports/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Terrorism Documentaries</title>
+  <tmdb>list/38470</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Terrorism Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-terrorism/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+<title>Top Documentaries Channel</title>
+<meta>
+<summary>Top Documentaries Channel</summary>
+</meta>
+<link>plugin://plugin.video.youtube/channel/UCiJidVBSbrJ2ldLzqZHwKow/</link>
+</plugin>
+
+<dir>
+<title>VICE Documentaries</title>
+  <tmdb>list/38537</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>War Documentaries</title>
+  <tmdb>list/38471</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>War Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-war/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>Wildlife Documentaries</title>
+  <tmdb>list/38764</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>Wildlife Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-wildlife/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<title>World History Documentaries</title>
+  <tmdb>list/38765</tmdb>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+< dir>
+<title>World History Documentaries</title>
+  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/docs-history-world/items</trakt>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+<title>World In Action Documentaries</title>
+ <link>
+    <sublink>plugin://plugin.video.youtube/playlist/PLdAfVqbTVW9A9hx27uxBNF5-FC9SX8X6m/</sublink>  
+  </link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>XBMC to Kodi - A History and a Journey</title>
+ <link>
+    <sublink>plugin://plugin.video.youtube/playlist/PLdAfVqbTVW9CIelBCuYFrhcQFZWzKHi6l/</sublink>  
+  </link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</plugin>
+
+< dir>
+<title>Youtube Documentaries</title>
+<link>http://norestrictions.club/griff/Docs/Docs_direct_menu.xml</link>
+<thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+<fanart></fanart>
+</dir>

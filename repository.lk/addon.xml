@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <addon id="repository.lk" name="Last Kingdom Repository" version="1.0.0" provider-name="Pedro Kingdom">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+		  <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/</datadir>
+            <hashes>false</hashes>
+        </dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+        <extension point="xbmc.addon.repository" name="Last Kingdom Repository">
+            <info compressed="false">https://raw.githubusercontent.com/pedroscotty/lastkingdom/master/__zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/pedroscotty/lastkingdom/master/__zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/pedroscotty/lastkingdom/master/__zips/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Repository For last kingdom Add-ons</summary>
+            <description>Official Home for All Last kingdom add-ons</description>
+            <platform>all</platform>
+            <genre>movies,usa</genre>
+        </extension>
+    </addon>

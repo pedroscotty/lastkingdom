@@ -1,0 +1,18 @@
+<dir>
+<title>Metacritic In Theaters</title>
+<metacritic>theaters</metacritic>
+</dir>
+
+Movies coming soon with release date:
+
+<dir>
+<title>Metacritic Coming Soon</title>
+<metacritic>coming</metacritic>
+</dir>
+
+TV Show trailers:
+
+<dir>
+<title>Metacritic TV Show Trailers</title>
+<metacritic>tvshow/0</metacritic>
+</dir>

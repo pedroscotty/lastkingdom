@@ -1,0 +1,70 @@
+
+<dir>
+  <title>ABC Family</title>
+  <tmdb>network/shows/75</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Cartoon Network</title>
+  <tmdb>network/shows/56</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+
+<dir>
+  <title>Disney Channel</title>
+  <tmdb>network/shows/54</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+    <title>Disney Junior Shows</title>
+      <imdburl>/list/ls068340535/</imdburl>
+	 <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
+	<summary>Disney Junior Shows</summary>
+  </dir>
+
+ <dir>
+    <title>ABC Kids</title>
+    <tvmaze>network/1154/1</tvmaze>
+    </dir>     
+
+<dir>
+  <title>Disney XD</title>
+  <tmdb>network/shows/44</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>Hub</title>
+  <tmdb>network/shows/518</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>CBBC</title>
+  <tmdb>network/shows/15</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>CBeebies</title>
+  <tmdb>network/shows/166</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>PBS Kids</title>
+  <tmdb>network/shows/122</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+

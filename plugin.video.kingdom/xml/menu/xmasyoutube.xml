@@ -1,0 +1,54 @@
+
+
+<item>
+    <title>[COLORlime][B]*** Your In Kingdoms Christmas Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+
+ <dir>
+    <title>[COLORred][B]TOP 25  [/B][COLORred][B]XM[/B][/COLOR][COLORwhite][B]AS[/B][/COLOR] [COLORred][B]MOV[/B][/COLOR][COLORwhite][B]IES[/B][/COLOR]</title>
+    <link>file://menu/Top_25_Christmas_Movies.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>XMAS CORNER</summary>
+	</dir>
+	
+	<item>
+    <title>[COLOR pink][B]**--**[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+	
+	 <dir>
+    <title>[COLORred][B]ULTIMATE  [/B][COLORred][B]XM[/B][/COLOR][COLORwhite][B]AS[/B][/COLOR] [COLORred][B]MOV[/B][/COLOR][COLORwhite][B]IES[/B][/COLOR]</title>
+    <link>file://menu/ultimat.xmas.movies.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>XMAS CORNER</summary>
+	</dir>
+	
+	<item>
+    <title>[COLOR pink][B]**--**[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+	
+	 <dir>
+    <title>[COLORred][B]HALLMARK   A - E [/B][COLORred][B] - XM[/B][/COLOR][COLORwhite][B]AS[/B][/COLOR] [COLORred][B]MOV[/B][/COLOR][COLORwhite][B]IES[/B][/COLOR]</title>
+    <link>file://menu/hallxmas.a-e.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>XMAS CORNER</summary>
+	</dir>
+	
+	<item>
+    <title>[COLOR pink][B]**--**[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+	
+	<dir>
+    <title>[COLORred][B]HALLMARK F - Z [/B][COLORred][B] - XM[/B][/COLOR][COLORwhite][B]AS[/B][/COLOR] [COLORred][B]MOV[/B][/COLOR][COLORwhite][B]IES[/B][/COLOR]</title>
+    <link>file://menu/hallxmas.f-z.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>XMAS CORNER</summary>
+	</dir>
+	
+	
+	

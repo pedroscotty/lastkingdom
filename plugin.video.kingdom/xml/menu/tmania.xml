@@ -1,0 +1,64 @@
+
+
+  <dir>
+     <title>[COLOR green]New Movies[/COLOR]</title>
+     <toonmania>category/GetNewMovies</toonmania>
+     <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
+     <fanart></fanart>
+  </dir>
+
+  <dir>
+     <title>[COLOR green]All Movies[/COLOR]</title>
+     <toonmania>category/GetAllMovies</toonmania>
+     <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
+     <fanart></fanart>
+  </dir>
+
+  <dir>
+     <title>[COLOR green]Popular Movies[/COLOR]</title>
+     <toonmania>category/GetPopularMovies</toonmania>
+     <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
+     <fanart></fanart>
+  </dir>
+
+  <dir>
+     <title>[COLOR green]New Cartoons[/COLOR]</title>
+     <toonmania>category/GetNewCartoon</toonmania>
+     <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
+     <fanart></fanart>
+  </dir>
+
+  <dir>
+     <title>[COLOR green]All Cartoons[/COLOR]</title>
+     <toonmania>category/GetAllCartoon</toonmania>
+     <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
+     <fanart></fanart>
+  </dir>
+
+  <dir>
+     <title>[COLOR green]Popular Cartoons[/COLOR]</title>
+     <toonmania>category/GetPopularCartoon</toonmania>
+     <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
+     <fanart></fanart>
+  </dir>
+
+  <dir>
+     <title>[COLOR green]New Anime[/COLOR]</title>
+     <toonmania>category/GetNewDubbed</toonmania>
+     <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
+     <fanart></fanart>
+  </dir>
+
+  <dir>
+     <title>[COLOR green]All Anime[/COLOR]</title>
+     <toonmania>category/GetAllDubbed</toonmania>
+     <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
+     <fanart></fanart>
+  </dir>
+
+  <dir>
+     <title>[COLOR green]Popular Anime[/COLOR]</title>
+     <toonmania>category/GetPopularDubbed</toonmania>
+     <thumbnail>http://i66.tinypic.com/5tlop.jpg</thumbnail>
+     <fanart>special://home/addons/plugin.video.sanity/resources/media/kcollectons.jpg</fanart>
+  </dir>

@@ -1,0 +1,54 @@
+<xml>
+
+<dir>
+	<title>50 Latest Releases</title>
+	<wctoon>topfifty/last-50-recent-release</wctoon>
+</dir>
+
+<dir>
+            <title>Thunderbirds Are Go</title>
+            <wctoon>wcsearch/thunderbirds-are-go</wctoon>
+        </dir>
+
+<dir>
+	<title>Most Popular</title>
+	<wctoon>main/popular</wctoon>
+</dir>
+
+<dir>
+	<title>Dubbed Anime</title>
+	<wctoon>category/dubbed-anime-list</wctoon>
+</dir>
+
+<dir>
+	<title>Subbed Anime</title>
+	<wctoon>category/subbed-anime-list</wctoon>
+</dir>
+
+<dir>
+	<title>Cartoons</title>
+	<wctoon>category/cartoon-list</wctoon>
+</dir>
+
+<dir>
+	<title>Movies</title>
+	<wctoon>category/movie-list</wctoon>
+</dir>
+
+<dir>
+	<title>Ova Series</title>
+	<wctoon>category/ova-list</wctoon>
+</dir>
+
+<dir>
+	<title>Genres</title>
+	<wctoon>wcgenre/all</wctoon>
+</dir>
+
+<dir>
+	<title>Search</title>
+	<wctoon>wcsearch</wctoon>
+</dir>
+
+
+</xml>

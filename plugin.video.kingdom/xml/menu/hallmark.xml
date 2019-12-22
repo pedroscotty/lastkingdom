@@ -1,0 +1,57 @@
+ <item>
+    <title>[COLORlime][B]*** Your In Kingdoms Hallmark Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+
+ <dir>
+    <title>[COLORdeeppink][B]Top Hallmark Movies[/B][/COLOR]</title>
+    <imdburl>/list/ls062403894/</imdburl>
+    <thumbnail>https://i.imgur.com/R3gciAT.png</thumbnail>
+	<summary>Hallmark movies</summary>
+  </dir> 
+ 
+  <dir>
+    <title>[COLORdeeppink][B]Hallmark Movies 2019[/B][/COLOR]</title>
+    <link>file://menu/Hallmark_Movies_2019.xml</link>
+    <thumbnail>https://i.imgur.com/R3gciAT.png</thumbnail>
+	<summary>Hallmark movies</summary>
+  </dir>
+  
+ 
+  
+  <dir>
+    <title>[COLORdeeppink][B]Hallmark Movies 2018[/B][/COLOR]</title>
+    <imdburl>/list/ls027316430/</imdburl>
+    <thumbnail>https://i.imgur.com/R3gciAT.png</thumbnail>
+	<summary>Hallmark movies</summary>
+  </dir> 
+  
+  <dir>
+    <title>[COLORdeeppink][B]Hallmark Movies 2017[/B][/COLOR]</title>
+    <imdburl>/list/ls020862943/</imdburl>
+    <thumbnail>https://i.imgur.com/R3gciAT.png</thumbnail>
+	<summary>Hallmark movies</summary>
+  </dir> 
+  
+  <dir>
+    <title>[COLORdeeppink][B]Hallmark Movie List (100)[/B][/COLOR]</title>
+    <link>file://menu/Hallmark_Channel_Movies.xml</link>
+    <thumbnail>https://i.imgur.com/R3gciAT.png</thumbnail>
+	<summary>Hallmark movies</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORdeeppink][B]Hallmark Romance Movies[/B][/COLOR]</title>
+    <link>file://menu/Hallmark_Romance_Movies.xml</link>
+    <thumbnail>https://i.imgur.com/R3gciAT.png</thumbnail>
+	<summary>Hallmark movies</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORdeeppink][B]Hallmark Movies 2019][/B][/COLOR]</title>
+    <link>file://menu/Hallmark_Movies_2019.xml</link>
+    <thumbnail>https://i.imgur.com/R3gciAT.png</thumbnail>
+	<summary>Hallmark movies</summary>
+  </dir>

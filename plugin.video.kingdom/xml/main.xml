@@ -1,0 +1,151 @@
+<item>
+    <title>[COLORlime][B]*** Welcome to Kingdom ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail>https://i.imgur.com/sjtiKlM.png</thumbnail>
+    
+</item>
+
+ 
+<dir>
+<title>[COLORorange][B]CLICK TO PAIR[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/iMDrRzH.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/djwayne1985/repository.T2K/master/plugin.program.t2kpair/fanart.jpg</fanart>
+<link>plugin://plugin.program.t2kpair/?ahction=RunAddon</link>
+</dir>
+
+<dir>
+    <title>[COLORred][B]XMAS [/B][/COLOR][COLORwhite][B]GROTTO[/B][/COLOR]</title>
+    <link>file://menu/grotto.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>XMAS CORNER</summary>
+  </dir>
+    
+
+ <dir>
+    <title>[COLORwhite][B]3D MOVIES[/B][/COLOR]</title>
+    <link>file://menu/all3d.xml</link>
+    <thumbnail>https://i.imgur.com/CkaqzbS.png</thumbnail>
+	<summary>3D Movies</summary>
+  </dir>
+   
+ 
+  <dir>
+    <title>[COLORdeepskyblue][B]M[/B][/COLOR]OVIES</title>
+    <link>file://menu/allmovies.xml</link>
+    <thumbnail>https://i.imgur.com/kgMXiGS.png</thumbnail>
+	<summary>Movies</summary>
+  </dir>
+  
+      
+  <dir>
+    <title>[COLORdeepskyblue][B]TV[/B][/COLOR] SHOWS</title>
+    <link>file://menu/alltvshows.xml</link>
+    <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+<summary>TV Shows</summary>	
+ </dir>
+ 
+      <dir>
+    <title>[COLORred][B]H[/B][/COLOR][COLORwhite][B]OUSE[/B][/COLOR]  [COLORred][B]O[/B][/COLOR][COLORwhite][B]F[/B][/COLOR]  [COLORred][B]H[/B][/COLOR][COLORwhite][B]ORROR[/B][/COLOR]</title>
+    <link>file://content/horrorall.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>House Of Horror</summary>
+  </dir>
+         
+
+<dir>
+  <title>[COLORgreen][B]Ghosts and Paranormal TV[/B][/COLOR]</title>
+  <link>file://menu/paranormal1.xml</link>
+  <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+<summary>Ghosts and Paranormal TV</summary>
+</dir>
+
+ 
+<dir>
+    <title>[COLORyellow][B] @ COMEDY @[/B][/COLOR]</title>
+    <link>file://content/comedytube.xml</link>
+    <thumbnail>https://i.imgur.com/knH8gX7.png</thumbnail>
+	<summary>Comedy</summary>
+  </dir>
+
+ 
+ <dir>
+     <title>[COLORblue][B]D[/B][/COLOR]OCUMENTARIES </title>
+  <link>file://menu/docs.xml</link>
+  <thumbnail>https://i.imgur.com/6kIOTWE.png</thumbnail>
+  <summary>Documentaries</summary>
+  </dir>
+  
+   
+<dir>
+    <title>[COLORroyalblue][B]LIVE TV[/B][/COLOR]</title>
+    <link>file://menu/livetv.xml</link>
+    <thumbnail>https://i.imgur.com/Rp707mK.png</thumbnail>
+	<summary>LIVE TV</summary>
+  </dir>
+  
+   
+  <dir>
+    <title>[COLORblue][B]SPORTS XTRA  [/B][/COLOR]</title>
+    <link>file://menu/sport.xml</link>
+    <thumbnail>https://i.imgur.com/YhwOm6B.png</thumbnail>
+	<summary>SPORTS XTRA  No Live sport</summary>
+  </dir>
+  
+   <dir>
+    <title>[COLORmagenta][B]-^^ Music ^^-[/B][/COLOR]</title>
+    <link>file://menu/music.xml</link>
+    <thumbnail>https://i.imgur.com/kgQc42Q.png</thumbnail>
+    <summary></summary>
+</dir>
+
+<dir>
+    <title>[COLORlime][B]Hobbies And More [/B][/COLOR]</title>
+    <link>file://menu/hobbies.xml</link>
+    <thumbnail>https://i.imgur.com/eyjbD9X.png</thumbnail>
+	<summary> Learn something New</summary>    
+</dir>
+  
+   <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+<thumbnail>https://i.imgur.com/kz6j1KS.png</thumbnail>
+  </dir>
+
+  <dir>
+    <title>Search TMDB</title>
+    <tmdb>search</tmdb>
+    <thumbnail>https://i.imgur.com/vOhf8Jf.jpg</thumbnail>
+  </dir> 
+  
+        
+
+
+<item>
+    <title>[COLOR orange][B]--------------------------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+   
+   
+  <dir>
+    <title>[COLORyellow][B]*** KIDS KINGDOM ***       --- Click Me ---[/B][/COLOR]</title>
+    <link>file://menu/kidscorner.xml</link>
+    <thumbnail>https://i.imgur.com/44M3NCI.png</thumbnail>
+	<summary>KIDS KINGDOM </summary>    
+</dir>
+
+          
+ 
+    
+  
+<dir>
+    <title>[COLOR red][B]TOOLS[/COLOR][/B]</title>
+    <summary>add-On Tools.</summary>
+    <link>file://menu/mytools.xml</link>
+	<thumbnail>special://home/addons/plugin.video.kingdom/resources/images/icons/mytools.png</thumbnail>
+	<summary>Tool  authorise RD . Authorise . Trakt . Clear cache . Pair Up</summary>
+</dir>
+
+ <item>
+    <title>[COLOR skyblue][B]--------------------------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>

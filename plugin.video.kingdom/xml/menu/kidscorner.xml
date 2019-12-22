@@ -1,0 +1,132 @@
+<item>
+    <title>[COLORlime][B]*** Your In Kids Kingdoms Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+
+<dir>
+    <title>Marvel Movies</title>
+      <imdburl>/list/ls071217506/</imdburl>
+	 <thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Marvel Movies</summary>
+  </dir>
+
+<dir>
+  <title> Animated Movies</title>
+  <tmdb>genre/movies/16</tmdb>
+   <thumbnail>https://i.imgur.com/hgtDAPp.png</thumbnail>
+	<summary>TMDB Animated Movies</summary>
+</dir>
+         
+<dir>
+  <title>Walt Disney Animated Feature Films</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/walt-disney-animated-feature-films/items</trakt>
+  <thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Walt Disney Animated Feature Films</summary>
+</dir>
+ 
+<dir>
+  <title>Pixar animation Studios</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/pixar-animation-studios/items</trakt>
+  <thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Pixar animation Studios</summary>
+</dir>
+ 
+<dir>
+  <title>Dreamworks Animation</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/dreamworks-animation/items</trakt>
+ <thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Dreamworks Animation</summary> 
+</dir>
+ 
+<dir>
+  <title>D C Comics</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/dc-comics/items</trakt>
+  <thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>D C Comics</summary>
+</dir>
+ 
+<dir>
+  <title>Batman Movies</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/batman/items</trakt>
+  <thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Batman Movies</summary>
+</dir>
+ 
+<dir>
+  <title>Superman Movies</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/superman/items</trakt>
+  <thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Superman Movies</summary>
+</dir>
+ 
+<dir>
+  <title>Animation</title>
+  <trakt>https://api.trakt.tv/users/giladg/lists/animation/items</trakt>
+  <thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Animation</summary>
+</dir>
+ 
+<dir>
+  <title>Family Movies</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/family/items</trakt>
+   <thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Family Movies</summary>
+</dir>
+
+<dir>
+<title>Disney Channel Shows</title>
+<trakt>https://api.trakt.tv/users/kylesheila/lists/disney-channel/items</trakt>
+<thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Disney Channel Shows</summary>
+</dir>
+
+
+<dir>
+<title>Kids TV Shows</title>
+<trakt>https://api.trakt.tv/users/drinfernoo/lists/kids-shows/items</trakt>
+<thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Kids TV Shows</summary>
+</dir>
+
+  
+<dir>
+<title>Kids Cartoons</title>
+<trakt>https://api.trakt.tv/users/kylesheila/lists/kids-cartoons/items</trakt>
+<thumbnail>https://i.imgur.com/MABGsmP.png</thumbnail>
+	<summary>Kids Cartoons</summary>
+</dir>
+
+<dir>
+    <title>Kids Networks</title>
+    <link>file://menu/kidsnetworks.xml</link>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+	<summary>Kids Networks</summary>
+  </dir>
+  
+  <dir>
+    <title>Kids Cartoons</title>
+    <link>file://menu/cartoon.xml</link>
+	<thumbnail>https://i.imgur.com/R1cISmP.png</thumbnail>
+	<summary>Kids Networks</summary>
+  </dir>
+
+<dir>
+    <title>[COLORlimegreen][B]*** Spooky Corner       Click Me***[/B][/COLOR]</title>
+    <link>file://menu/spookycorner.xml</link>
+    <thumbnail>https://i.imgur.com/raNGi8h.png</thumbnail>
+	<summary>Spooky Corner</summary>
+</dir>   
+
+<dir>
+    <title>[COLORorange][B]*** CONNORS    DEN      Click Me ***[/B][/COLOR]</title>
+    <link>file://menu/connorsden.xml</link>
+    <thumbnail>https://i.imgur.com/NdKCSSs.png</thumbnail>
+	<summary>   Every Thing That CONNOR Likes</summary>
+  </dir>
+
+<dir>
+     <title>   </title>
+    <link></link>
+  </dir>

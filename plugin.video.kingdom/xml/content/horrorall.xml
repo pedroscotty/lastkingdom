@@ -1,0 +1,228 @@
+<xml>
+
+<item>
+    <title>[COLORlime][B]*** Your In Kingdoms House of Horror Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+
+ <dir>
+    <title>Horror Boxsets</title>
+    <link>file://menu/horror-boxsets.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>Horror Boxsets</summary>
+  </dir>
+
+<dir>
+    <title>[COLORroyalblue][B]Hammer House of Horror[/B][/COLOR] </title>
+    <link>file://content/hammer-horror.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>Horror Boxsets</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORhoneydew][B]British  Horror[/B][/COLOR] </title>
+    <link>file://content/British_Horror.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>Horror Boxsets</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORmagenta][B]Kingdoms Horror Pit[/B][/COLOR] </title>
+    <link>file://content/kingdoms Horror Pit.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>Horror Boxsets</summary>
+  </dir>
+  
+  
+ <dir>
+    <title>[COLORred][B]TOP 100 HORROR MOVIES A-O [/B][/COLOR]  </title>
+    <link>file://content/top100.a-o.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>Top 100 Horror movies  A-O</summary>
+  </dir>
+    
+  <dir>
+    <title> TOP 100 HORROR MOVIES P - Z </title>
+    <link>file://content/top100p-z.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>Top 100 HORROR MOVIES P-Z</summary>
+  </dir>
+  
+   <item>
+    <title>[COLOR orange][B]@*********************************************@[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+ <dir>
+    <title> [COLORred][B]HORROR MOVIE A - H   (large list) [/B][/COLOR] </title>
+    <link>file://content/The Horror Movie Vault A H.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>HORROR MOVIES A-H  LARGE LIST</summary>
+  </dir>
+  
+   <dir>
+    <title> HORROR MOVIES I - Z (large list</title>
+    <link>file://content/top100p-z.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>HORROR MOVIES I-Z LARGE LIST</summary>
+  </dir>
+  
+   <item>
+    <title>[COLOR orange][B]@*********************************************@[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+ <dir>
+    <title>[COLORred][B]HORRORTHON 2010[/B][/COLOR]</title>
+    <link>file://content/ifi-horrorthon-2010.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>HORRORTHON 2010</summary>
+  </dir>
+  
+  <dir>
+    <title>HORRORTHON 2011</title>
+    <link>file://content/ifi-horrorthon-2011.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>HORRRORTHON 2011</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORred][B]HORRORTHON 2012[/B][/COLOR]</title>
+    <link>file://content/ifi-horrorthon-2012.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>HORRORTHON 2012</summary>
+  </dir>
+  
+  <dir>
+    <title>HORRORTHON 2013</title>
+    <link>file://content/ifi-horrorthon-2013.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>HORRORTHON 2013</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORred][B]HORRORTHON 2014[/B][/COLOR]</title>
+    <link>file://content/ifi-horrorthon-2014.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>HORRORTHON 2014</summary>
+  </dir>
+  
+  <dir>
+    <title>HORRORTHON 2015</title>
+    <link>file://content/ifi-horrorthon-2015.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>HORRORTHON 2015</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORred][B]HORRORTHON 2016[/B][/COLOR]</title>
+    <link>file://content/ifi-horrorthon-2016.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>HORRORTHON 2016</summary>
+  </dir>
+  
+    <item>
+    <title>[COLOR orange][B]@*********************************************@[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+      
+  
+  
+    <item>
+    <title>[COLOR orange][B]@*********************************************@[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+  
+   <dir>
+    <title>10 GRUESOME MOVIES FROM THE 00s</title>
+    <link>file://content/gruesomehorror.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>10 GRUESOME MOVIES FROM THE 00s</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORred][B]PSYCHOLOGICAL-THRILLERS[/B][/COLOR]</title>
+    <link>file://content/psychological-thrillers.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>PSYCHOLOGICAL-THRILLERS</summary>
+  </dir>
+  
+    <dir>
+    <title>DUBLIN FILM FGESTIVAL 2018 HORROR MOVIES</title>
+    <link>file://content/dublin-sci-fi-film-festival-2018.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>DUBLIN FILM FGESTIVAL 2018 HORROR MOVIES</summary>
+  </dir>
+  
+    <dir>
+    <title>[COLORred][B]HALLOWEEN MOVIE LIST 2018[/B][/COLOR]</title>
+    <link>file://content/halloween movies list 2018.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	 <summary>HALLOWEEN MOVIE LIST 2018</summary>
+  </dir>
+  
+    <dir>
+    <title>MUST WATCH HORROR MOVIES</title>
+    <link>file://content/horror-movies-to-watch.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>MUST WATCH HORROR MOVIES</summary>
+  </dir>
+  
+   <dir>
+    <title>[COLORred][B]TRUE CRIME MOVIES[/B][/COLOR]</title>
+    <link>file://content/crime movies.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>TRUE CRIME MOVIES</summary>
+  </dir>  
+  
+  <dir>
+    <title>[COLORwhite][B]10 Independantly Made Horror Movies[/B][/COLOR]</title>
+    <link>file://content/10indephorror.xml</link>
+    <thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+	<summary>10 Independantly Made Horror Movies</summary>
+
+  </dir>
+  
+   <item>
+    <title>[COLOR orange][B]@*********************************************@[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+ <dir>
+<title>[COLORwhite][B] Horror  Vault[/COLOR][/B]</title>
+<tmdb>list/46472</tmdb>
+<thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+<summary>Horror  Vault</summary>
+</dir>
+
+<dir>
+<title>[COLORwhite][B] Horror Vault 2[/COLOR][/B]</title>
+<tmdb>list/80023</tmdb>
+<thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+<summary>Horror Vault 2</summary>
+</dir>
+
+
+<dir>
+<title>[COLORwhite][B]Blood and Brimstone TV [/COLOR][/B]</title>
+<tmdb>list/46485</tmdb>
+<thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+<summary>]Blood and Brimstone TV</summary>
+</dir>
+
+<dir>
+<title>[COLORwhite][B]Open Grave Documentaries[/COLOR][/B]</title>
+<tmdb>list/46487</tmdb>
+<thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+<summary>Open Grave Documentaries</summary>
+</dir>
+
+<dir>
+<dir>
+<title>[COLORwhite][B]Movies Based On True Stories[/COLOR][/B]</title>
+<tmdb>list/46802</tmdb>
+<thumbnail>https://i.imgur.com/0C7MlzJ.jpg</thumbnail>
+<summary>Movies Based On True Stories</summary>
+</dir

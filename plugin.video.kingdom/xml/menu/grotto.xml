@@ -1,0 +1,34 @@
+<dir>
+    <title>[COLORred][B] XMAS [/B][/COLOR][COLORwhite][B]MOVIES[/B][/COLOR] </title>
+    <link>file://menu/xmasyoutube.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>Xmas Corner</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORred][B]COCKTAILS  &  [/B][/COLOR][COLORwhite][B]DIY DECORATIONS[/B][/COLOR]</title>
+    <link>file://menu/cocktail.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>Xmas Corner</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORred][B]CHRISTMAS [/B][/COLOR][COLORwhite][B] TOONS & ANIMATION[/B][/COLOR]</title>
+    <link>file://menu/xmasloony.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>Xmas Corner</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORred][B] XMAS MUSIC [/B][/COLOR][COLORwhite][B]AND PLAYLISTS[/B][/COLOR]</title>
+    <link>file://menu/xmasmusic.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>Xmas Corner</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORred][B] YULETIDE FIRES [/COLOR][COLORwhite][B] LOGS n MUSIC[/B][/COLOR]</title>
+    <link>file://menu/xmasfires.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>Xmas Corner</summary>
+  </dir>

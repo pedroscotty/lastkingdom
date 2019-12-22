@@ -1,0 +1,243 @@
+<xml>
+<item>
+    <title>[COLORlime][B]*** Your In Kingdoms Movie Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+
+<dir>
+<title>[COLORspringgreen][B]CLICK TO PAIR[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/iMDrRzH.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/djwayne1985/repository.T2K/master/plugin.program.t2kpair/fanart.jpg</fanart>
+<link>plugin://plugin.program.t2kpair/?ahction=RunAddon</link>
+</dir>
+
+<dir>
+    <title>Movies by Year</title>
+    <link>file://menu/moviebyyear.xml</link>
+    <thumbnail>https://i.imgur.com/kgMXiGS.png</thumbnail></thumbnail>
+	<summary>Movies By Year</summary>
+  </dir>
+
+<dir>
+    <title>4K Movies</title>
+    <imdburl>/list/ls026986501/</imdburl>
+    <thumbnail>https://i.imgur.com/88YPO22.png</thumbnail>
+	<summary>4K Movies</summary>
+  </dir>    
+
+  <dir>
+  <title>Latest 4K Releases</title>
+  <trakt>https://api.trakt.tv/users//giladg/lists/latest-4k-releases/items</trakt>
+   <thumbnail>https://i.imgur.com/88YPO22.png</thumbnail>
+	<summary>Latest 4K Movies</summary>
+</dir>
+
+ <dir>
+    <title>New_and_Recent_DVD_Blu_ray_Releases</title>
+    <link>file://menu/New_and_Recent_DVD_Blu_ray_Releases.xml</link>
+    <thumbnail>https://i.imgur.com/kgMXiGS.png</thumbnail>
+	<summary>DVD - Blueray Releases</summary>
+  </dir>
+  
+  <dir>
+    <title>[COLORdeeppink][B]Hallmark Movies[/B][/COLOR] </title>
+    <link>file://menu/hallmark.xml</link>
+    <thumbnail>https://i.imgur.com/R3gciAT.png</thumbnail>
+	<summary>Hallmark Movies</summary>
+  </dir>
+  
+  <dir>
+    <title>Movie Boxsets</title>
+    <link>file://menu/movie-boxsets.xml</link>
+    <thumbnail>https://i.imgur.com/kgMXiGS.png</thumbnail>
+	<summary>Movie Boxsets</summary>
+  </dir>
+
+<dir>
+  <title>[COLORorangered][B]Trending Movies[/B][/COLOR]</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+   <thumbnail>https://i.imgur.com/5qftrLS.png</thumbnail>
+   <summary>Trending Movies</summary>
+</dir>
+
+<dir>
+  <title>[COLORorangered][B]Popular Movies[/B][/COLOR]</title>
+  <trakt>https://api.trakt.tv/movies/popular</trakt>
+   <thumbnail>https://i.imgur.com/5qftrLS.png</thumbnail>
+   <summary>Popular Movies</summary>
+</dir>
+
+<dir>
+  <title>[COLORorangered][B]Box Office Movies[/B][/COLOR]</title>
+  <trakt>https://api.trakt.tv/movies/boxoffice</trakt>
+   <thumbnail>https://i.imgur.com/5qftrLS.png</thumbnail>
+   <summary>Trakt Box Office Movies</summary>
+</dir>
+
+<dir>
+  <title>[COLORorangered][B]Trakt Movie Watchlist[/B][/COLOR]</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+   <thumbnail>https://i.imgur.com/5qftrLS.png</thumbnail>
+   <summary>Trakt Movie Watchlist</summary>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]TMDB Popular[/B][/COLOR]</title>
+  <tmdb>movies/popular</tmdb>
+   <thumbnail>https://i.imgur.com/kgMXiGS.png</thumbnail>
+   <summary>TMDB Popular Movies</summary>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]TMDB Now Playing[/B][/COLOR]</title>
+  <tmdb>movies/now_playing</tmdb>
+   <thumbnail>https://i.imgur.com/kgMXiGS.png</thumbnail>
+   <summary>TMBD Movies Now Playing</summary>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]TMDB Top Rated[/B][/COLOR]</title>
+  <tmdb>movies/top_rated</tmdb>
+   <thumbnail>https://i.imgur.com/kgMXiGS.png</thumbnail>
+   <summary>TMDB Top Rated Movies</summary>
+</dir>
+
+<dir>
+  <title>[COLORsteelblue][B]TMDB Upcoming (Shows Trailers) [/B][/COLOR]</title>
+  <tmdb>movie/upcoming</tmdb>
+  <summary>Shows Trailers For Upcoming Movies</summary>
+   <thumbnail>https://i.imgur.com/kgMXiGS.png</thumbnail>
+   <summary>Trailers of Upcoming Movies</summary>
+</dir>    
+
+<dir>
+    <title>Stephen King</title>
+    <link>file://menu/stephen-king.xml</link>
+    <thumbnail>https://i.imgur.com/wgsV95Z.png</thumbnail>	
+	 <summary>Stephen King Movies</summary>
+  </dir>
+  
+    <dir>
+    <title>Sports Movies A-L</title>
+    <link>file://menu/sportmovies1.xml</link>
+    <thumbnail>https://i.imgur.com/QJSsanx.png</thumbnail>
+	<summary>Sports Movies in Alphabet  A-L</summary>
+  </dir>
+  
+   <dir>
+    <title>Sports Movies M-Z</title>
+    <link>file://menu/sportmovies2.xml</link>
+    <thumbnail>https://i.imgur.com/QJSsanx.png</thumbnail>
+	<summary>Sports Movies in Alphabet  M-Z</summary>
+  </dir>
+  
+    <dir>
+  <title>[COLORlime][B]Pedro's Movies[/B][/COLOR]</title>
+  <tmdb>list/movies/80726</tmdb>
+ <thumbnail>https://i.imgur.com/muKniZO.png</thumbnail>
+ <summary>A Smallish List of My Fave Movies</summary>
+</dir>
+  
+  <item>
+    <title>[COLOR skyblue][B]-------------Genres------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+  
+<dir>
+  <title>Action</title>
+  <tmdb>genre/movies/28</tmdb>
+</dir>
+
+<dir>
+  <title>Adventure</title>
+  <tmdb>genre/movies/12</tmdb>
+</dir>
+
+<dir>
+  <title>Animation</title>
+  <tmdb>genre/movies/16</tmdb>
+</dir>
+
+<dir>
+  <title>Comedy</title>
+  <tmdb>genre/movies/35</tmdb>
+</dir>
+
+<dir>
+  <title>Crime</title>
+  <tmdb>genre/movies/80</tmdb>
+</dir>
+
+<dir>
+  <title>Drama</title>
+  <tmdb>genre/movies/18</tmdb>
+</dir>
+
+<dir>
+  <title>Family</title>
+  <tmdb>genre/movies/10751</tmdb>
+</dir>
+
+<dir>
+  <title>Fantasy</title>
+  <tmdb>genre/movies/14</tmdb>
+</dir>
+
+<dir>
+  <title>Horror</title>
+  <tmdb>genre/movies/27</tmdb>
+</dir>
+
+<dir>
+  <title>Music</title>
+  <tmdb>genre/movies/10402</tmdb>
+</dir>
+
+<dir>
+  <title>Mystery</title>
+  <tmdb>genre/movies/9648</tmdb>
+</dir>
+
+<dir>
+  <title>Romance</title>
+  <tmdb>genre/movies/10749</tmdb>
+</dir>
+
+<dir>
+  <title>Science Fiction</title>
+  <tmdb>genre/movies/878</tmdb>
+</dir>
+
+<dir>
+  <title>TV Movie</title>
+  <tmdb>genre/movies/10770</tmdb>
+</dir>
+
+<dir>
+  <title>Thriller</title>
+  <tmdb>genre/movies/53</tmdb>
+</dir>
+
+<dir>
+  <title>War</title>
+  <tmdb>genre/movies/10752</tmdb>
+</dir>
+
+<dir>
+  <title>Western</title>
+  <tmdb>genre/movies/37</tmdb>
+</dir>
+
+  <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+  </dir>
+  
+   <dir>
+    <title>Search TMDB</title>
+    <trakt>search</trakt>
+  </dir>
+  
+</xml>

@@ -1,0 +1,148 @@
+<xml>
+
+<item>
+    <title>[COLORlime][B]*** Your In Kingdoms TV Shows Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+
+<dir>
+<title>[COLORspringgreen][B]CLICK TO PAIR[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/iMDrRzH.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/djwayne1985/repository.T2K/master/plugin.program.t2kpair/fanart.jpg</fanart>
+<link>plugin://plugin.program.t2kpair/?ahction=RunAddon</link>
+</dir>
+
+<dir>
+    <title>[COLORwhite][B]All Networks By Country[/B][/COLOR] </title>
+    <tvmaze>country/all</tvmaze>
+	<thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+    </dir>
+
+ <dir>
+    <title>[COLORwhite][B]Shows by Network[/B][/COLOR]</title>
+    <link>file://menu/networks.xml</link>
+	<thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+  </dir>
+
+<dir>
+  <title>[COLORorangered][B]Trending Shows[/B][/COLOR]</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+  <summary>Trending TV Shows</summary>
+</dir>
+
+<dir>
+  <title>[COLORorangered][B]Popular Shows[/B][/COLOR]</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+  <summary>Popular TV Shows</summary>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]TMDB Watchlist[/B][/COLOR]</title>
+  <tmdb>list/92623</tmdb>
+  <thumbnail>https://www.themoviedb.org/assets/1/v4/logos/312x276-primary-green-74212f6247252a023be0f02a5a45794925c3689117da9d20ffe47742a665c518.png</thumbnail>
+  <summary>TMDB Watchlist</summary>
+</dir>
+
+
+<dir>
+  <title>[COLORwhite][B]TMDB Popular[/B][/COLOR]</title>
+  <tmdb>tv/popular</tmdb>
+  <thumbnail>https://www.themoviedb.org/assets/1/v4/logos/312x276-primary-green-74212f6247252a023be0f02a5a45794925c3689117da9d20ffe47742a665c518.png</thumbnail>
+  <summary>TMDB Poular TV Shows</summary>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]TMDB Top Rated[/B][/COLOR]</title>
+  <tmdb>tv/top_rated</tmdb>
+  <thumbnail>https://www.themoviedb.org/assets/1/v4/logos/312x276-primary-green-74212f6247252a023be0f02a5a45794925c3689117da9d20ffe47742a665c518.png</thumbnail>
+  <summary>TMDB Top rated TV Shows</summary>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]TMDB Airing Today[/B][/COLOR]</title>
+  <tmdb>tv/today</tmdb>
+  <thumbnail>https://www.themoviedb.org/assets/1/v4/logos/312x276-primary-green-74212f6247252a023be0f02a5a45794925c3689117da9d20ffe47742a665c518.png</thumbnail>
+  <summary>TMDB Shows Airing Today</summary>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Action & Adventure[/B][/COLOR]</title>
+  <tmdb>genre/shows/10759</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Animation[/B][/COLOR]</title>
+  <tmdb>genre/shows/16</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Comedy[/B][/COLOR]</title>
+  <tmdb>genre/shows/35</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Crime[/B][/COLOR]</title>
+  <tmdb>genre/shows/80</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Documentary[/B][/COLOR]</title>
+  <tmdb>genre/shows/99</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Drama[/B][/COLOR]</title>
+  <tmdb>genre/shows/18</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Family[/B][/COLOR]</title>
+  <tmdb>genre/shows/10751</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Kids[/B][/COLOR]</title>
+  <tmdb>genre/shows/10762</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Mystery[/B][/COLOR]</title>
+  <tmdb>genre/shows/9648</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Sci-Fi & Fantasy[/B][/COLOR]</title>
+  <tmdb>genre/shows/10765</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+  <title>[COLORwhite][B]Western[/B][/COLOR]</title>
+  <tmdb>genre/shows/37</tmdb>
+  <thumbnail>https://i.imgur.com/3eVubCo.png</thumbnail>
+</dir>
+
+<dir>
+   <title>[COLORwhite][B]Search Trakt[/B][/COLOR]</title>
+   <trakt>search</trakt>
+</dir>
+
+<dir>
+   <title>[COLORwhite][B]Search TMDB[/B][/COLOR]</title>
+   <tmdb>search</tmdb>
+</dir>
+
+</xml>

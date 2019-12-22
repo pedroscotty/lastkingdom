@@ -1,0 +1,13 @@
+ <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORorange][B]THE MINISTRY[/B][/COLOR]  [COLORwhite][B]OF SOUND[/B][/COLOR]  [COLORblue][B]ANNUALS[/B][/COLOR]</title>
+    <link>file://menu/mosannuals.xml</link>
+    <thumbnail>https://i.imgur.com/w5T6s4k.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>
+  
+   <dir>
+    <title>[B][COLOR ffc51162]• [/COLOR][/B][COLORorange][B]THE MINISTRY[/B][/COLOR]  [COLORwhite][B]OF SOUND[/B][/COLOR]  [COLORblue][B]COMPILATIONS[/B][/COLOR]</title>
+    <link>file://menu/ministry.xml</link>
+    <thumbnail>https://i.imgur.com/w5T6s4k.png</thumbnail>
+	<fanart>special://home/addons/plugin.video.thevault/fanart.jpg</fanart>
+  </dir>

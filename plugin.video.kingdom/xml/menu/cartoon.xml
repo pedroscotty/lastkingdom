@@ -1,0 +1,39 @@
+
+        <dir>
+            <title>Popular Series (Short List)</title>
+            <wctoon>main/popular_series/0</wctoon>
+			 <thumbnail>https://i.imgur.com/Y3Sm5de.png</thumbnail>
+        </dir>
+
+        <dir>
+            <title>Popular Series (Full List)</title>
+            <wctoon>popular-cartoon</wctoon>
+			<thumbnail>https://i.imgur.com/Y3Sm5de.png</thumbnail>
+        </dir>
+
+        <dir>
+            <title>Cartoons</title>
+            <wctoon>category/cartoon</wctoon>
+			<thumbnail>https://i.imgur.com/Y3Sm5de.png</thumbnail>
+        </dir>
+
+        <dir>
+            <title>Movies</title>
+            <wctoon>category/movies</wctoon>
+			<thumbnail>https://i.imgur.com/Y3Sm5de.png</thumbnail>
+        </dir>
+
+        <dir>
+            <title>Search Movies</title>
+            <wctoon>wcsearch</wctoon>
+			<thumbnail>https://i.imgur.com/Y3Sm5de.png</thumbnail>
+        </dir>
+		
+		
+        <dir>
+            <title>ToonMania</title>
+            <link>file://menu/tmania.xml</link>
+            <thumbnail>https://i.imgur.com/zU9eRdo.png</thumbnail>
+	        <summary>Toonmania</summary>
+        </dir>
+        

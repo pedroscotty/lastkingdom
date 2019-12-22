@@ -1,0 +1,39 @@
+<xml>
+
+<item>
+	<title>[COLOR orangered][B]------------------^^ [/COLOR][COLOR orangered]The Vault Tools[/COLOR][COLOR orangered] ^^------------------[/B][/COLOR]</title>
+	<heading></heading>
+</item>
+
+<item>
+	<title>Pair Up</title>
+	<pairwith>pairlist</pairwith>
+	<thumbnail>special://home/addons/plugin.video.gbmusic/resources/images/icons/mytools.png</thumbnail>
+</item>
+
+<item>
+	<title>Pair Openload</title>
+	<pairwith>openload</pairwith>
+	<thumbnail>special://home/addons/plugin.video.gbmusic/resources/images/icons/mytools.png</thumbnail>
+</item>
+
+<item>
+	<title>Re-Authorize Trakt</title>
+	<trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+	<thumbnail>special://home/addons/plugin.video.gbmusic/resources/images/trakt.png</thumbnail>
+</item>
+
+<plugin>
+	<title>Re-Authorize REAL-DEBRID (Resolve-URL)</title>
+	<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+	<thumbnail>special://home/addons/plugin.video.gbmusic/resources/images/icons/rd.png</thumbnail>
+</plugin>
+
+<plugin>
+    <title>Clear Cache</title>
+    <link>plugin://plugin.video.gbmusic/?mode=clearCache</link>
+    <thumbnail>special://home/addons/plugin.video.gbmusic/resources/images/icons/Settings.png</thumbnail>
+</plugin>
+
+
+</xml>

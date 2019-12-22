@@ -1,0 +1,42 @@
+<xml>
+
+<plugin>
+	<title>Let Me Explain</title>
+	<link>plugin://plugin.video.youtube/playlist/PLXVEZ4buSvJ3rVCuNH_102NR6Ok9QTXW9/</link>
+	<thumbnail>https://i.imgur.com/HPRPVUp.jpg</thumbnail>
+</plugin>
+
+<item>
+    <title>[COLOR lightslategrey][B]------------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+<plugin>
+	<title>Best Of Kevin Hart</title>
+	<link>plugin://plugin.video.youtube/playlist/PLM1j81DurDjDAjzSglEp2J90A-hCDJzD8/</link>
+	<thumbnail>https://i.imgur.com/HPRPVUp.jpg</thumbnail>
+</plugin>
+
+<item>
+    <title>[COLOR lightslategrey][B]------------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+<plugin>
+	<title>Kevin Hart-Seriously Funny</title>
+	<link>plugin://plugin.video.youtube/playlist/PL8vgl5N_Tx3M5bYKDFDcEG0KNx1mIHotV/</link>
+	<thumbnail>https://i.imgur.com/HPRPVUp.jpg</thumbnail>
+</plugin>
+
+<item>
+    <title>[COLOR lightslategrey][B]------------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+<plugin>
+	<title>Kevin Hart-Laugh At My Pain</title>
+	<link>plugin://plugin.video.youtube/playlist/PL9XuirgT6cs5msmNpl4OOwJmUUMWRSF7O/</link>
+	<thumbnail>https://i.imgur.com/HPRPVUp.jpg</thumbnail>
+</plugin>
+
+</xml>

@@ -1,0 +1,30 @@
+<item>
+    <title>[COLORlimegreen][B]*** Spooky Corner ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail>https://i.imgur.com/raNGi8h.png</thumbnail>
+	
+    
+</item>
+
+<dir>
+     <title> [COLORyellow][B]Goosebumps Series[/B][/COLOR] </title>
+  <link>file://content/goosebumps.xml</link>
+  <thumbnail>https://i.imgur.com/1wCODOX.jpg</thumbnail>
+  <summary>Goosebumps</summary>
+  </dir>
+  
+
+  
+  <dir>
+     <title> Hotel Transylvania The series </title>
+  <link>file://content/transyl.xml</link>
+  <thumbnail>https://i.imgur.com/JEvcRZt.png</thumbnail>
+  <summary>Translyvania The Series</summary>
+  </dir>
+  
+  <dir>
+     <title> Halloween 4 Kids Movies </title>
+  <link>file://content/hallow4kids.xml</link>
+  <thumbnail>https://i.imgur.com/AKkMuak.png</thumbnail>
+  <summary>Halloween 4 Kids Movies</summary>
+  </dir>

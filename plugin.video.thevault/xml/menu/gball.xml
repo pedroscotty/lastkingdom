@@ -1,0 +1,65 @@
+<xml>
+  <dir>
+    <title>[B][COLOR ffffef00]• [COLORred][B]Top British Bands[/B][/COLOR]</title>
+    <link>file://menu/britbands.xml</link>
+	<thumbnail>https://i.imgur.com/f3C3PHL.png</thumbnail>
+	<summary>Top British Bands</summary>
+  </dir>
+
+  <dir>
+    <title>[B][COLOR ffffef00]• [COLORwhite][B]Top British Artists[/B][/COLOR]</title>
+    <link>file://menu/britart.xml</link>
+	<thumbnail>https://i.imgur.com/f3C3PHL.png</thumbnail>
+	<summary>Top British Artists</summary>
+  </dir>
+  
+  <dir>
+    <title>[B][COLOR ffffef00]• [COLORblue][B]Top British Boy Bands[/B][/COLOR]</title>
+    <link>file://menu/boybands.xml</link>
+	<thumbnail>https://i.imgur.com/f3C3PHL.png</thumbnail> 
+	<summary>Top British Boy Bands</summary>
+  </dir>
+  
+  <dir>
+    <title>[B][COLOR ffffef00]• [COLORred][B]Top British girl Bands[/B][/COLOR]</title>
+    <link>file://menu/girlbands.xml</link>
+	<thumbnail>https://i.imgur.com/f3C3PHL.png</thumbnail>
+	<summary>Top British girl Bands</summary>
+  </dir>
+  
+  <plugin>
+	<title>[B][COLOR ffffef00]• [COLORwhite][B]Best Of British Live In Concert[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0Lnlxv1ELI93OmyNQH5Go65k/</link>
+	<thumbnail>https://i.imgur.com/f3C3PHL.png</thumbnail>
+	<summary>Best Of British Live In Concert</summary>
+  </plugin>
+  
+  <plugin>
+	<title>[B][COLOR ffffef00]• [COLORblue][B]The Ultimate Britpop Playlist[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PL4BrNFx1j7E5DYo6tyYai3n7biYnc_-5t/</link>
+	<thumbnail>https://i.imgur.com/f3C3PHL.png</thumbnail>
+	<summary>The Ultimate Britpop Playlist</summary>
+</plugin>
+
+<plugin>
+	<title>[B][COLOR ffffef00]• [B][COLOR ffffef00]• [COLORred][B]Top 200 Greatest Britpop Songs[/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLEXox2R2RxZKEz2xR3UnmfhsuS3iH4Yw6/</link>
+	<thumbnail>https://i.imgur.com/f3C3PHL.png</thumbnail>
+	<summary>Top 200 Greatest Britpop Songs</summary>
+</plugin>
+
+<dir>
+    <title>[B][COLOR ffffef00]• [COLORorange][B]Music mayhem[/B][/COLOR]</title>
+    <link>file://menu/mix.xml</link>
+	<thumbnail>https://i.imgur.com/f3C3PHL.png</thumbnail>
+	<summary>Top British girl Bands</summary>
+  </dir>
+
+<plugin>
+<title>Search Music</title>
+<link>plugin://plugin.video.youtube/kodion/search/list/</link>
+<thumbnail>https://i.imgur.com/STAg6So.png</thumbnail>
+</plugin>
+              
+      
+</xml>

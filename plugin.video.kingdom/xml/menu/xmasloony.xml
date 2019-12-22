@@ -1,0 +1,34 @@
+<item>
+    <title>[COLOR pink][B]**--**[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+<plugin>
+	<title>[COLORred][B]LOONEY [/B][/COLOR][COLORwhite][B]TUNES [/B][/COLOR] [COLORred][B]Christmas [/B][/COLOR]</title>
+	<link>plugin://plugin.video.youtube/playlist/PLieEjKGqnm8CFRgHV2CLEi1ZWDQyEx2we/</link>
+	<thumbnail>https://i.imgur.com/WuB9syL.png</thumbnail>
+</plugin>
+
+<item>
+    <title>[COLOR pink][B]**--**[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+<dir>
+    <title>[COLORred][B] CHRISTMAS [/B][/COLOR][COLORwhite][B]CARTOONS[/B][/COLOR]</title>
+    <link>file://menu/Xmas_Cartoons_title_sorted.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>Xmas Corner</summary>
+  </dir>
+
+ <item>
+    <title>[COLOR pink][B]**--**[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+ 
+  <dir>
+    <title>[COLORred][B]  MORE CHRISTMAS [/B][/COLOR][COLORwhite][B]CARTOONS[/B][/COLOR]</title>
+    <link>file://menu/kids-christmas.xml</link>
+    <thumbnail>https://i.imgur.com/pRx2DDM.png</thumbnail>
+	<summary>Xmas Corner</summary>
+  </dir>

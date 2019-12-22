@@ -1,0 +1,15 @@
+<dir>
+<title>Paranormal TV Shows</title>
+<trakt>https://api.trakt.tv/users/mona-lott/lists/paranormal-tv-shows/items</trakt>
+<thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+<summary>Paranormal TV Shows</summary>
+</dir>
+
+<dir>
+  <title>[COLORgreen][B]Ghosts and Paranormal TV[/B][/COLOR]</title>
+  <trakt>https://api.trakt.tv/users/coldkeys/lists/ghosts-and-paranormal-tv/items</trakt>
+  <thumbnail>https://i.imgur.com/0hTn0JK.png</thumbnail>
+  <summary>Ghosts and Paranormal TV</summary>
+</dir>
+
+

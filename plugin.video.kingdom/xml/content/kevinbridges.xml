@@ -1,0 +1,36 @@
+<xml>
+
+<item>
+    <title>[COLOR lightslategrey][B]------------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+<plugin>
+	<title>Kevin Bridges - On Tour</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0LmVhETdZgwrYDmM0cm2X8hu/</link>
+	<thumbnail>https://i.imgur.com/R76gQNc.jpg</thumbnail>
+</plugin>
+
+<item>
+    <title>[COLOR lightslategrey][B]------------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+<plugin>
+	<title>Kevin Bridges - Stand Up</title>
+	<link>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0Ln0sz8dqbgGH8xFs9vDQ2fc/</link>
+	<thumbnail>https://i.imgur.com/R76gQNc.jpg</thumbnail>
+</plugin>
+
+<plugin>
+	<title>Kevin Bridges Playlist 1</title>
+	<link>plugin://plugin.video.youtube/playlist/PL52iO5lvRS53uWnG0YW5UgI_ocmL4sFoa/</link>
+	<thumbnail>https://i.imgur.com/R76gQNc.jpg</thumbnail>
+</plugin>
+
+<item>
+    <title>[COLOR lightslategrey][B]------------------------------------------------------[/COLOR][/B]</title>
+    <heading></heading>
+</item>
+
+</xml>

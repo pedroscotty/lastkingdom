@@ -1,0 +1,70 @@
+<item>
+    <title>[COLORlime][B]*** Your In Kingdoms Live TV Zone ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail></thumbnail>
+    
+</item>
+
+<item>
+    <title>[COLORgold][I]----  LIVE TV  ---- May take more than a few seconds to load[/I][/COLOR]</title>
+    <link>nolink</link>
+    <summary>Some may take more than a few seconds to load.</summary>
+</item>
+
+<dir>
+   <title>Live TV</title>
+   <swift>allthespice</swift>
+   <thumbnail>file://resources/images/swift.png</thumbnail>
+   <fanart></fanart>
+</dir>
+
+ 
+<plugin>
+   <title>[COLORsnow]Fluxus Cinema[/COLOR]</title>
+   <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/jbqA0j82</link>
+    <summary></summary>
+</plugin>
+
+<plugin>
+   <title>[COLORsnow]Lodge TV List[/COLOR]</title>
+   <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/2D80tRy5</link>
+    <thumbnail>https://i.imgur.com/2xNLydv.png</thumbnail>
+</plugin>
+
+<dir>
+   <name>Fluxus IPTV 2000+ Channels</name>
+   <thumbnail>https://3.bp.blogspot.com/-l8hZAIikGhE/Wa-XKR-x4iI/AAAAAAAAA90/aLWcwSePvcEsB5Gtk6eIxmLzuLxiUvp5ACLcBGAs/s320/FluxusIPTVBlue.png</thumbnail>
+   <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/ZzGTySZE</link>
+   <fanart>http://t2k-cloud.co.uk/Kodi/icons/Mobdro/1527696849_Fluxus-TV-Kodi-Setup-Guide-Free-M3U-Playlists-IPTV.png</fanart>
+   <info></info>
+</dir>
+
+<dir>
+   <title>UK IPTV Networks</title>
+   <tvmaze>country/United Kingdom/1</tvmaze>
+   <thumbnail>http://www.europe-iptv-server.com/wp-content/uploads/2017/01/IPTV.png</thumbnail>
+   <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduhvfYIbajyvjAeXbPwP1qN_Im1nZ0-wiQjoX0k5J5dnaEgZO</fanart>
+</dir>
+
+<dir>
+   <title>USA IPTV Networks</title>
+   <tvmaze>country/United States/1</tvmaze>
+   <thumbnail>http://www.europe-iptv-server.com/wp-content/uploads/2017/01/IPTV.png</thumbnail>
+   <fanart>https://i.pinimg.com/originals/7b/b9/df/7bb9df819bb3b3293cb3c1858c66e172.jpg</fanart>
+</dir>
+
+<dir>
+   <name>Stratus TV USA + Canada</name>
+   <thumbnail>https://i.imgur.com/svRjRTv.png</thumbnail>
+   <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/4cQ9mj8X&mode=1</link>
+   <fanart>https://2.bp.blogspot.com/-vJWOOl9BKsk/W1PVHGQ2tTI/AAAAAAAADiU/FBvxpknArXsp8wWq5rb4jptGgsFE2Y40gCLcBGAs/s320/stratustv_promok.png</fanart>
+   <info></info>
+</dir>
+
+<dir>
+   <name>Stratus TV UK + Ireland</name>
+   <thumbnail>https://i.imgur.com/svRjRTv.png</thumbnail>
+   <link>plugin://plugin.video.live.streamspro/?url=https://pastebin.com/raw/J1p1Uknd&mode=1</link>
+   <fanart>https://2.bp.blogspot.com/-vJWOOl9BKsk/W1PVHGQ2tTI/AAAAAAAADiU/FBvxpknArXsp8wWq5rb4jptGgsFE2Y40gCLcBGAs/s320/stratustv_promok.png</fanart>
+   <info></info>
+</dir>

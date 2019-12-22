@@ -1,0 +1,92 @@
+<item>
+    <title>[COLORthistle][B]*** CONNORS DEN ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail>https://i.imgur.com/NdKCSSs.png</thumbnail>
+    
+</item>
+
+<dir>
+     <title> Mr Bean The Animated Series ser 1 </title>
+  <link>file://menu/mrneanser1.xml</link>
+  <thumbnail>https://i.imgur.com/44M3NCI.png</thumbnail>
+  <summary> Mr Bean The Animated Series ser 1</summary>	
+  </dir>
+  
+  <dir>
+     <title> Mr Bean The Animated Series ser 2 </title>
+  <link>file://menu/mrbeanser2.xml</link>
+  <thumbnail>https://i.imgur.com/44M3NCI.png</thumbnail>
+  <summary>Mr Bean The Animated Series ser 2</summary>
+  </dir>
+  
+  <dir>
+     <title> Mr Bean The Animated Series ser 3 </title>
+  <link><link>file://menu/mrbeanser3.xml</link></link>
+  <thumbnail>https://i.imgur.com/44M3NCI.png</thumbnail>
+  <summary>Mr Bean The Animated Series ser 3</summary>
+  </dir>
+  
+  <dir>
+     <title> Mr Bean The Animated Series ser 4 </title>
+  <link><link>file://menu/mrbeanser4.xml</link></link>
+  <thumbnail>https://i.imgur.com/44M3NCI.png</thumbnail>
+  <summary>Mr Bean The Animated Series ser 4</summary>
+  </dir>
+  
+  <dir>
+     <title> Mr Bean The Animated Series ser 5 </title>
+  <link><link>file://menu/mrbeanser5.xml</link></link>
+  <thumbnail>https://i.imgur.com/44M3NCI.png</thumbnail>
+  <summary>Mr Bean The Animated Series ser 5</summary>
+  </dir>
+  
+  <item>
+    <title>[COLORthistle][B]*** Mr Magoo ***[/B][/COLOR]</title>
+    <link>nolink</link>
+    <thumbnail>https://i.imgur.com/ypDKt7R.jpg</thumbnail>
+	<summary></summary>	   
+</item>
+  
+  <dir>
+     <title> The Famous Adventures of Mr Magoo Series 1 </title>
+  <link><link>file://menu/fammagooser1.xml</link></link>
+  <thumbnail>https://i.imgur.com/Us7S8z4.jpg</thumbnail>
+  <summary>The Famous Adventures of Mr Magoo Series 1</summary>
+  </dir>
+  
+  <dir>
+     <title> The Mr Magoo Show </title>
+  <link><link>file://menu/magooshow.xml</link></link>
+  <thumbnail>https://i.imgur.com/BBMCGWk.jpg</thumbnail>
+  <summary>The Mr Magoo Show</summary>
+  </dir>
+  
+  <dir>
+     <title> What s New, Mr Magoo </title>
+  <link><link>file://menu/whatsnewmagoo.xml</link></link>
+  <thumbnail>https://i.imgur.com/lUdSWDD.jpg</thumbnail>
+  <summary>What s New, Mr Magoo</summary>
+  </dir>
+  
+  <dir>
+<title>Boss Baby  Series 1 and 2 </title>
+<trakt>https://api.trakt.tv/users/pedro-scotty/lists/boss-baby/items</trakt>
+<thumbnail>https://i.imgur.com/A3W3Yxk.jpg</thumbnail>
+<summary>Boss Baby  Series 1 and 2 </summary>
+</dir>
+
+<plugin>
+<title> Fortnite Dances</title>
+ <link>
+    <sublink>plugin://plugin.video.youtube/playlist/PLFq2YEzLx0Lnb4j0uArTUIFvMyUNHRJV5/</sublink>  
+  </link>
+<thumbnail>https://i.imgur.com/XxucD4D.png</thumbnail>
+<fanart></fanart>
+<summary>Fortnite Dances</summary>
+</plugin>
+  
+  <dir>
+     <title>  </title>
+  <link></link>
+  <thumbnail></thumbnail>
+  </dir>
